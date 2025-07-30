@@ -14,7 +14,7 @@ A command-line tool to interact with Azure Blob Storage. Easily list containers,
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/azure-blob-cli.git
+git clone https://github.com/metadust/azure-blob-cli.git
 cd azure-blob-cli
 ```
 
